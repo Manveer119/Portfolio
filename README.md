@@ -6,7 +6,7 @@ I am a Junior at George Mason University with a profound interest in technology 
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in Information Technology has led me to develop a passion for data analysis, and I am now eager to transition into this field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
